@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Surge Link
-##http://huzaifa-expense-tracker.surge.sh/
+## Surge Link
+## http://huzaifa-expense-tracker.surge.sh/
 
 ## Available Scripts
 
